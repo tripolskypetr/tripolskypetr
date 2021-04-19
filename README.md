@@ -5,7 +5,7 @@
 Telegram: [@ptr98](http://t.me/ptr98)<br>
 Email: [tripolskypetr@gmail.com](mailto:tripolskypetr@gmail.com)
 
-### Usefull links
+### Other links
 
 StackOverflow: [https://stackoverflow.com/users/7388307](https://stackoverflow.com/users/7388307)<br>
 Behance: [https://www.behance.net/tripolskypetr](https://www.behance.net/tripolskypetr)<br>
