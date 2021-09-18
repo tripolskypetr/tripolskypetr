@@ -13,7 +13,7 @@ Video introduction: [https://youtu.be/av8k8Kgkt8E](https://youtu.be/av8k8Kgkt8E)
 
 ### About me:
 
-I am a Frontend developer with 5 years of commercial experience. For the last 3 years, I have worked mostly on React. For mobile development, I have self-written a set of React components that makes development work faster and cheaper by eliminating errors in duplicate code. Also, I`m skilled in Apache Cordova, Redux, Mobx, Formik, React Hooks, Angular2, NodeJS. Familiar with GitHub, GitLab, Docker, Slack, etc.
+I am a Frontend developer with over 5 years of commercial experience, fueled by a passion for UI/UX and design. For the last 3 years, I have worked mostly on React. For mobile development, I have self-written a set of React components that makes development work faster and cheaper by eliminating errors in duplicate code. Also, I`m skilled in Apache Cordova, Redux, Mobx, Formik, React Hooks, Angular2, NodeJS. Familiar with GitHub, GitLab, Docker, Slack, etc.
 
 I am the winner of the national competition in the development of solutions using blockchain technologies according to WordSkills standards in Russia in 2019. For winning the competition, I received a grant from the city of Moscow in the amount of 6 thousand  5 hundred usd
 
