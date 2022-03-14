@@ -10,7 +10,7 @@ Email: [tripolskypetr@gmail.com](mailto:tripolskypetr@gmail.com)
 StackOverflow: [https://stackoverflow.com/users/7388307](https://stackoverflow.com/users/7388307)<br>
 Behance: [https://www.behance.net/tripolskypetr](https://www.behance.net/tripolskypetr)<br>
 Video introduction: [https://youtu.be/av8k8Kgkt8E](https://youtu.be/av8k8Kgkt8E)
-
+<!--
 ### About me:
 
 I am a Frontend developer with over 5 years of commercial experience, fueled by a passion for UI/UX and design. For the last 3 years, I have worked mostly on React. For mobile development, I have self-written a set of React components that makes development work faster and cheaper by eliminating errors in duplicate code. Also, I`m skilled in Apache Cordova, Redux, Mobx, Formik, React Hooks, Angular2, NodeJS. Familiar with GitHub, GitLab, Docker, Slack, etc.
@@ -72,3 +72,4 @@ I have a serious contribution to the open source movement on GitHub. I also have
  - From August 22, 2016 to July 3, 2015: Java. Level 1. Java programming language
 
     https://www.specialist.ru/course/dzhv1-a
+-->
