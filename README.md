@@ -15,13 +15,13 @@ Behance: [https://www.behance.net/tripolskypetr](https://www.behance.net/tripols
  
 OOP, FP, SOLID, Design Patterns, Serverless Architecture, REST API
 
- - **Data Scientist**
- 
-NumPy, SymPy, matplotlib, pandas, SciPy, scikit-*
-
  - **DeFi**
 
 Binance APIs, ERC721A, ERC20, OpenZeppelin, Geth, MetaMask, Infura
+
+ - **Data Scientist**
+ 
+NumPy, SymPy, matplotlib, pandas, SciPy, scikit-*
 
 ### See Also
 
