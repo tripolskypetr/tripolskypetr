@@ -23,7 +23,7 @@ NumPy, SymPy, matplotlib, pandas, SciPy, scikit-*
 
 Binance APIs, ERC721A, ERC20, OpenZeppelin
 
-### Also:
+### See Also
 
 I co founded a startup centred around the implementation of an esports platform where AI is acting as a casino croupier, determining the winner of cybersport competitions based on video captured from the user's screen during a match
 
