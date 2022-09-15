@@ -1,7 +1,7 @@
 ### Contact data
 
 Telegram: [@ptr98](http://t.me/ptr98)<br>
-Email: [tripolskypetr@gmail.com](mailto:tripolskypetr@gmail.com
+Email: [tripolskypetr@gmail.com](mailto:tripolskypetr@gmail.com)
 
 ### Other links
 
