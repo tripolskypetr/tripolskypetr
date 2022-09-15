@@ -21,7 +21,7 @@ NumPy, SymPy, matplotlib, pandas, SciPy, scikit-*
 
  - **DeFi**
 
-Binance APIs, ERC721A, ERC20, OpenZeppelin
+Binance APIs, ERC721A, ERC20, OpenZeppelin, Geth, MetaMask, Infura
 
 ### See Also
 
