@@ -1,6 +1,6 @@
 ### Contact data
 
-Telegram: [@ptr98](http://t.me/ptr98)<br>
+Telegram: [@tripolskypetr](http://t.me/tripolskypetr)<br>
 Email: [tripolskypetr@gmail.com](mailto:tripolskypetr@gmail.com)
 
 ### Other links
